@@ -1,1 +1,8 @@
-/* Add CSS styling here */
+.container {
+    max-width: 1280px;
+}
+
+#hero-img {
+    width: 1280px;
+    height: 1000px;
+}
